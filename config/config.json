@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE9A2AAD58aA9E3855af36ad1d0A1E9236a540A5b",
+  "SCAN_LINK": "https://polygonscan.com/token/0xE9A2AAD58aA9E3855af36ad1d0A1E9236a540A5b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BarnCats",
+  "SYMBOL": "BnCt",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 6000000000000000000,
+  "DISPLAY_COST": 6,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/barncats",
+  "SHOW_BACKGROUND": true
+}
